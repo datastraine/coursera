@@ -1,2 +1,5 @@
-# Coursera
-This repository is designed to house all the data science courses I take on coursera.org
+# Python Project for Data Science
+A min course provided on Cousera.org. From the desciption:
+
+>Intended to for you to demonstrate foundational Python skills for working with data. The completion of this course involves working on a hands-on project where you will develop a simple dashboard using Python.
+>This course is part of the ***IBM Data Science Professional Certificate and the IBM Data Analytics Professional Certificate***.
